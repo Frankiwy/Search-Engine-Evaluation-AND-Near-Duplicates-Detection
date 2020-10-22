@@ -1,5 +1,6 @@
 # Search-Engine-Evaluation & Near-Duplicates-Detection
 
+
 ### Part 1
 You have to index two collections of documents and improve the search-engines performance by changing their configurations. Using the provided sets of queries, and the associated Ground-Truths. For this part of the homework is required to use the Whoosh API.
 
